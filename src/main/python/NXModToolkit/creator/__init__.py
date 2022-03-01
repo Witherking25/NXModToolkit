@@ -4,4 +4,4 @@ from cookiecutter.main import cookiecutter
 
 
 def run(args):
-    cookiecutter("https://withertech.com/SimpleModManagerModTemplate.zip")
+    cookiecutter("https://github.com/withertech/SimpleModManagerModTemplate.git")
